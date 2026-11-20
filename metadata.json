@@ -1,0 +1,8 @@
+{
+  "name": "ChronoGate",
+  "description": "Real-time LLM Freshness Verification and Self-Healing Gateway Dashboard with Bifrost routing, live web grounding, and XR Blocks spatial telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
